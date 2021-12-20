@@ -792,7 +792,7 @@ It's a brown drink in a broken glass.	זה משקה חום בכוס שבורה.
 brown drink	משקה חום
 It's an orange drink in a broken glass.	זה משקה כתום בכוס שבורה.
 orange drink	משקה כתום
-It's an empty broken drinking glass.	זאת כוס שתייה שבורה.
+It's an empty broken drinking glass.	זאת כוס שתייה ריקה ושבורה.
 I might hurt myself on the broken edges.	אני עלול להיפצע מהקצוות השבורים.
 empty drinking mug	ספל שתייה ריק
 It's a crazy straw.	זאת קשית מסולסלת.
@@ -917,7 +917,7 @@ Yellow Beard's Baby,	התינוק של צהוב הזקן,
 Yellow Beard's Baby,\xFF\x01Bloody Stump, and	התינוק של צהוב הזקן,\xFF\x01גדם מדמם, וגם
 Yellow Beard's Baby,\xFF\x01Bloody Stump, and\xFF\x01Blue Whale.	התינוק של צהוב הזקן,\xFF\x01גדם מדמם, וגם\xFF\x01לויתן כחול.
 	
-\x07I'll have Yellow Beard's Baby.	\x07אני אקח התינוק של צהוב הזקן.
+\x07I'll have Yellow Beard's Baby.	\x07אני אקח את התינוק של צהוב הזקן.
 \x07Give me a Bloody Stump.	\x07תן לי גדם מדמם.
 \x07Mix me up a Blue Whale.	\x07תכין לי לויתן כחול.
 \x07Come to think of it, I'm not that thirsty.	\x07כשאני חושב על זה, אני לא כזה צמא.
@@ -1702,8 +1702,8 @@ Good practice, but I think I need some wood.	זה אימון טוב, אבל נר
 Nothing like a pocket full of nails to keep you on your toes.	אין כמו חופן מסמרים בכיס כדי להישאר ערני.
 Help yourself to as many as you'd like.	קח לך כמה שתרצה.
 nails	מסמרים
-It says `Out on house call.`	כתוב 'יצאתי לביקור בית.'
-`Please come again.`	אנא חזרו בפעם אחרת.'
+It says `Out on house call.`	כתוב `יצאתי לביקור בית.`
+`Please come again.`	`אנא חזרו בפעם אחרת.`
 I don't want it.	אני לא רוצה את זה.
 I don't feel like it.	לא מתחשק לי.
 sign	שלט
@@ -5726,23 +5726,23 @@ JAAAABBBBCCCCDDDDEEEE	JAAAABBBBCCCCDDDDEEEE
 HHHHSSS	HHHHSSS
 ABCDEI	ABCDEI
 ABCDEI	ABCDEI
-`First Place`	מקום ראשון'
+`First Place`	`מקום ראשון`
 flag	דגל
-`Second Place`	מקום שני'
+`Second Place`	`מקום שני`
 flag	דגל
-`Third Place`	מקום שלישי'
+`Third Place`	`מקום שלישי`
 flag	דגל
 Ah, the whole world loves a spitting contest.	אה, כל העולם אוהב תחרויות יריקה.
 I'm not looking for a fight.	אני לא מחפש לריב.
 crowd	קהל
 fault line	קו עונשין
-`Pirates' Spit Contest`	תחרות יריקות לשודדי ים'
+`Pirates' Spit Contest`	`תחרות יריקות לשודדי ים`
 banner	כרזה
 path	שביל
 path	שביל
-`Pirates' Spit Contest`	תחרות יריקות לשודדי ים'
+`Pirates' Spit Contest`	`תחרות יריקות לשודדי ים`
 banner	כרזה
-`SPIT FUN SPIT FUN`	*יריקות כיף יריקות כיף*'
+`SPIT FUN SPIT FUN`	`*יריקות כיף יריקות כיף*`
 banners	כרזות
 It's a plaque with an old-looking gob of something on it.	זה לוח שיש עליו גביע ישן למראה מלא במשהו.
 For what?  A paperweight?	בשביל מה? משקולת נייר?
@@ -5769,12 +5769,12 @@ Loog-o-rama!	מלך העול-מוחטה!
 Hockin' the big ones for fame and fortune!	שומר את הגדולים לכבוד ותהילה!
 Oh, no.  Dry tongue at the last minute!	אוי לא.  לשון יבשה ברגע האחרון!
 Well, what about you folks?	ובכן, מה איתכם חברים?
-(ahem)	(אהמ)
+(ahem)	)אהמ(
 Dribble Boy is back!	ילד הריור חזר!
 Juicious Maximus has returned!	רוקיוס מקסימוס חזר!
 The Phlegm Master, ready for his comeback!	אלוף הליחה, מוכן לחזרה שלו לתחרות!
 Captain Loogie is in the house!	קפטן מוחטה הגיע!
-Spit away!	תירקו!
+Spit away!	תירק!
 	
 	
 \x07Swish-swish.	\x07רשרוש-רשרוש.
@@ -5839,7 +5839,7 @@ Valuable prizes!	פרסים יקרי-ערך!
 Even a child can do it!	אפילו ילד יכול לעשות את זה!
 In fact, they do it very well!	למען האמת, הם עושים את זה טוב מאוד!
 Come on.  It's all paid for by Booty Island Parks and Rec!	קדימה.  הכל ממומן על ידי מחלקת גנים ונוף של אי הביזה!
-Just put your two lips together and blow!	פשוט תצמיד את שתי השפתיים ביחד ונשוף!
+Just put your two lips together and blow!	פשוט תצמידו את שתי השפתיים ביחד ונשפו!
 Are you pirates or not?	אתם שודדי ים או לא?
 Two, four, six, eight!	אחת, שתיים, שלוש, ארבע!
 Come on, let's expectorate!	נכייח בצוותא!
@@ -5851,10 +5851,10 @@ What a waste!	איזה בזבוז!
 Thousands will spit.  Hundreds will win!	אלפים יירקו.  מאות יזכו!
 No volunteers?  If Blackbeard were here he'd shoot you all right now.	אין מתנדבים?  אם שחורזקן היה פה הוא היה יורה עכשיו בכולכם.
 Don't be shy!  Let it fly!	לא להתבייש! תנו את מה שיש!
-I know you want to volunteer^	אני יודע שאתה רוצה להתנדב^
-^it's on the tip of your tongue.	^זה על קצה הלשון שלך.
-You think spitting is gross?	אתה חושב שיריקות זה דוחה?
-I'll tell you what's gross--	אני אגיד לך מה דוחה--
+I know you want to volunteer^	אני יודע שאתם רוצים להתנדב^
+^it's on the tip of your tongue.	^זה על קצה הלשון שלכם.
+You think spitting is gross?	אתם חושבים שיריקות זה דוחה?
+I'll tell you what's gross--	אני אגיד לכם מה דוחה--
 Swallowing that stuff is gross.	לבלוע את הדבר הזה, זה דוחה.
 Prove to me that you guys are at least as fun as a pack of llamas.	תוכיחו לי שאתם לפחות כיפיים כמו עדר למות.
 I hear there are some scouts here from the pro spitting circuit^	שמעתי שיש פה כמה ציידי כשרונות מחוגי היריקה המקצועית^
@@ -6556,8 +6556,8 @@ We do it in a rowdy Mardi Gras style, with music and dancing and pallbearer race
 I like to say we put the FUN in FUNerals.	אני אוהב להגיד שאנחנו שמים את ה*ווי* בל*ווי*ות.
 Heh heh.	חי חי.
 Well, you came to the right place!	טוב, הגעת למקום הנכון!
-`Your loved ones deserve\xFF\x01Stan's special preserve.`	לאהוביך מגיע, לגדול וקטן\xFF\x01את השימור המיוחד של איתן.'
-`You won't smell a whiff\xFF\x01When we're done with your stiff.`	אתה לא תריח שום צחנה\xFF\x01 כשנסיים עם הגוויה שלך.'
+`Your loved ones deserve\xFF\x01Stan's special preserve.`	`לאהוביך מגיע, לגדול וקטן\xFF\x01את השימור המיוחד של איתן.`
+`You won't smell a whiff\xFF\x01When we're done with your stiff.`	`אתה לא תריח שום צחנה\xFF\x01 כשנסיים עם הגוויה שלך.`
 I never knew morticians were so clever.\xFF\x09\x19\x00	אף פעם לא ידעתי שקברנים הם כאלה מתוחכמים.\xFF\x09\x19\x00
 Sorry^	מצטער^
 Health regulations prohibit me from allowing uncertified persons free access to used internment paraphernalia.	נהלי בריאות אוסרים עלי לאפשר לאנשים שאינם מורשים גישה חופשית לציוד קבורה משומש.
@@ -6581,7 +6581,7 @@ Look at how freely I can wiggle my toes.	תראה באיזו חופשיות אנ
 This thing's bigger than my kitchen!	הדבר הזה גדול יותר מהמטבח שלי!
 You know, a person's coffin should reflect their station in life.	אתה יודע, ארון קבורה של בן אדם צריך לשקף את המקום שלו בחיים.
 If you're thinking about one of those cheaper models, first ask yourself,	אם אתה חושב על אחד הדגמים הזולים יותר, קודם שאל את עצמך,
-`Isn't my loved one worth the best?`	האם לא מגיע ליקיריי את הטוב ביותר?'
+`Isn't my loved one worth the best?`	`האם לא מגיע ליקיריי את הטוב ביותר?`
 This is truly the casket of captains.	זה בהחלט ארון לרבי-חובלים.
 When you've spent your life on something as big as the ocean,	אחרי שבילית את חייך במקום גדול כמו האוקיינוס,
 how can you spend your death in anything smaller?	איך תהיה מסוגל לבלות את מותך במקום קטן יותר?
@@ -7791,7 +7791,7 @@ Hello?	שלום?
 Little Guybrush?	ברנשצבע הקטן?
 Good boy!	ילד טוב!
 Run along home now.	לך הביתה עכשיו.
-Now that's a good dog.	איזה כלב קטן.
+Now that's a good dog.	איזה כלב טוב.
 	
 That doesn't seem to smell interesting to him.	עושה רושם שזה לא מריח לו מעניין.
 It's too heavy to swim with.	זה כבד מכדי לשחות איתו.
@@ -8356,14 +8356,14 @@ There wasn't anything down there.	לא היה כלום שם למטה.
 The galleon is here!	ספינת הסחר הגיעה!
 Well, here we are.	ובכן, הנה אנחנו.
 What now?	מה עכשיו?
-\x07What did you do, order this ship out of the back of \xFE\x08     a comic book?\xFF\x09\x06\x00	\x07מה עשית, הזמנת את הספינה הזאת החלק האחורי של \xFE\x08     חוברת קומיקס?\xFF\x09\x06\x00
+\x07What did you do, order this ship out of the back of \xFE\x08     a comic book?\xFF\x09\x06\x00	\x07מה עשית, הזמנת את הספינה הזאת מהחלק האחורי של \xFE\x08     חוברת קומיקס?\xFF\x09\x06\x00
 \x07This ship is so small, the rats leaving it are \xFE\x08     humpbacked.	\x07הספינה הזאת כל כך קטנה, העכברושים שעוזבים אותה הם \xFE\x08     עם גיבנת.
 \x07Whose bathtub did the ship come from?	\x07מהאמבטיה של מי הספינה הזאת הגיעה?
 \x07I've seen bigger ships in bottles.	\x07ראיתי ספינות גדולות יותר בתוך בקבוקים.
 \x07I've seen COFFEE CUPS bigger than this ship.	\x07ראיתי *כוסות קפה* גדולות יותר מהספינה הזאת.
 \x07I'll dive in and look for the sunken galleon.	\x07אני אצלול ואחפש את ספינת הסחר הטבועה.
 \x07I'll dive in again.	\x07אני אצלול שוב.
-\x07Let's head back to Booty Island.\xFF\x09\x1A\x00	\x07בואו נחזור לאי הביזה.\xFF\x09\x1A\x00
+\x07Let's head back to Booty Island.\xFF\x09\x1A\x00	\x07בואי נחזור לאי הביזה.\xFF\x09\x1A\x00
 \x07I'm sure it's near here, can we try another spot?	\x07אני בטוח שזה פה קרוב, אפשר לנסות עוד נקודה?
 Very funny.	מצחיק מאוד.
 The guy who writes your lines is as funny as your tailor.	הבחור שכותב לך את השורות הוא מצחיק כמו החייט שלך.
