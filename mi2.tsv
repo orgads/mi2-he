@@ -708,7 +708,7 @@ Where'd he go?	לאיפה הוא נעלם?
 Someone's hastily scratched a message here^	מישהו חרט כאן מסר בחיפזון^
 It just says, `LeChuck.`	כתוב רק, `לה צ׳אק.`
 Oh, no!	אוי, לא!
-LeChuck's kidnapped the cartographer!	לה צ׳אק חטף את המפאי!
+LeChuck's kidnapped the cartographer!	לה צ'אק חטף את המפאי!
 The poor little guy^	הבחור הקטן והמסכן הזה^
 Hey!  He has my map!	היי! המפה שלי אצלו!
 	
@@ -1917,9 +1917,9 @@ cemetery	בית עלמין
 Talk about your slipshod internments.	אם כבר קבורה רשלנית...
 No way.  That might bring them all down.	מה פתאום. זה עלול למוטט את הכל.
 feet	כפות רגליים
-`Old Bill the acrobat,\xFF\x01He lies in here dead.	ביל הלוליין הזקן,|לנצח כאן ישכב
+`Old Bill the acrobat,\xFF\x01He lies in here dead.	`ביל הלוליין הזקן,|לנצח כאן ישכב
 He died like we buried him^	הוא מת כפי שנקבר^
-Propped up on his head.`	על ראשו ניצב.'
+Propped up on his head.`	על ראשו ניצב.`
 I wouldn't want to upset its balance.	לא הייתי רוצה להפר את שיווי משקלו.
 coffin	ארון מתים
 Silty.	בוצי.
@@ -2054,7 +2054,7 @@ Check the gas and I'll throw you the whip.	בדוק את הגז ואני אזר�
 I mean, give you the map.	כלומר, אתן לך את המפה.
 Check the gas and I'll give you the map.	תבדוק את הגז ואני אתן לך את המפה.
 Oh yeah?	אה כן?
-Well^ me too.	ובכן^ גם אני.
+Well^ me too.	ובכן^ גם לי.
 Thanks.  Here's the key.	תודה.  הנה המפתח.
 	
 I guess where I'm going I won't need this map anyway.	אני חושב שבמקום שאני הולך אליו אני ממילא לא אצטרך את המפה הזו.
@@ -2109,7 +2109,7 @@ Row to	חתור אל
 In the small crate of voodoo supplies that would be his home for the next five days and nights, Guybrush is forced to eat bat lungs and eel bladders to stay alive.	בארגז הקטן של ציוד וודו שיהווה את ביתו לחמש הימים והלילות הבאים, ברנשצבע נאלץ לאכול ריאות עטלף ושלפוחיות צלופח כדי לשרוד.
 \xFF\x07\x22\x00	\xFF\x07\x22\x00
 \xFF\x07\x22\x00	\xFF\x07\x22\x00
-Eventually, Guybrush and the rest of the slithering cargo are delivered to the very doorstep of the Caribbean's most fearsome villain, living or dead:  The Ghost Pirate LeChuck!	לבסוף, ברנשבצע ושאר המטען החלקלק נמסרים לסף דלתו של הנבל מעורר הפחד הגדול ביותר בכל האיים הקריביים, חי או מת: שודד הרפאים לה-צ'אק!
+Eventually, Guybrush and the rest of the slithering cargo are delivered to the very doorstep of the Caribbean's most fearsome villain, living or dead:  The Ghost Pirate LeChuck!	לבסוף, ברנשצבע ושאר המטען החלקלק נמסרים לסף דלתו של הנבל מעורר הפחד הגדול ביותר בכל האיים הקריביים, חי או מת: שודד הרפאים לה-צ'אק!
 \xFF\x07\x22\x00	\xFF\x07\x22\x00
 \xFF\x07\x22\x00	\xFF\x07\x22\x00
 Largo	תמיר
@@ -2135,29 +2135,29 @@ And anyway, they're gross.	ובכל מקרה, הם מגעילים.
 bottles	בקבוקים
 Creepy, but apparently seaworthy.	מצמרר, אבל כנראה ראוי לשיט.
 coffin	ארון מתים
-`Wart Remover`	מסיר יבלות'
+`Wart Remover`	`מסיר יבלות`
 jar@@@@@@@@@@	קנקן@@@@@@@@@@
-`Cat De-Wormer`	מתלע חתולים'
+`Cat De-Wormer`	`מתלע חתולים`
 jar@@@@@@@@@@@	קנקן@@@@@@@@@@@
-`Ash-2-Life\x0F	מחיה-אפר\x0F
-The Un-Cremating Cream.`	הקרם נוגד-השריפה.'
+`Ash-2-Life\x0F	`מחיה-אפר\x0F
+The Un-Cremating Cream.`	הקרם נוגד-השריפה.`
 jar@@@@@@@@@	קנקן@@@@@@@@@
 `Skink Toes`	`בהונות חומט`
 jar@@@@@@@@	קנקן@@@@@@@@
-`Eau d'Mojo\x0F	ניחוח דה-כשף\x0F
-The mystical aroma of Voodoo captured in a delightful potpourri.`	הארומה המיסטית של כישוף הוודו מרוכזת בתוך מבשם נהדר.'
+`Eau d'Mojo\x0F	`ניחוח דה-כשף\x0F
+The mystical aroma of Voodoo captured in a delightful potpourri.`	הארומה המיסטית של כישוף הוודו מרוכזת בתוך מבשם נהדר.`
 jar@@@@@@@@@	קנקן@@@@@@@@@
-`Bat Wax`	שעוות עטלפים'
+`Bat Wax`	`שעוות עטלפים`
 jar@@@@@	קנקן@@@@@
-`Fruit Cocktail -- In Heavy Syrup`	תערובת פירות - בסירופ מרוכז'
+`Fruit Cocktail -- In Heavy Syrup`	`תערובת פירות - בסירופ מרוכז`
 jar@@@@@@@@@@@@	קנקן@@@@@@@@@@@@
-`Spider Lungs`	ריאות עכביש'
+`Spider Lungs`	`ריאות עכביש`
 jar@@@@@@@@@@	קנקן@@@@@@@@@@
-`Golden Tongue\x0F	לשון זהובה\x0F
-The five-day treatment plan that helps you talk to women.`	טיפול חמש-הימים שיעזור לך לדבר עם נשים.'
+`Golden Tongue\x0F	`לשון זהובה\x0F
+The five-day treatment plan that helps you talk to women.`	טיפול חמש-הימים שיעזור לך לדבר עם נשים.`
 jar@@@@@@@@@@@@	קנקן@@@@@@@@@@@@
-`Tender-touch Pirate Powder\x0F	אבקת מגע-עדין לשודדי ים\x0F
-Prevents stump chaffing and eye-patch rash.`	מונעת שפשפשת בגדם ופריחה ברטייה.'
+`Tender-touch Pirate Powder\x0F	`אבקת מגע-עדין לשודדי ים\x0F
+Prevents stump chaffing and eye-patch rash.`	מונעת שפשפשת בגדם ופריחה ברטייה.`
 jar@@@@@@@@@@@	קנקן@@@@@@@@@@@
 Looks like bound editions of `Voodoo Quarterly.`	נראה כמו מהדורות כרוכות של 'רבעון הוודו.'
 Nyah.  That stuff's way too technical for me.	לאא. החומר הזה טכני מדי בשבילי.
@@ -2192,15 +2192,15 @@ It's open.	זה פתוח.
 I don't think that will do anything.	אני לא חושב שזה יעשה משהו.
 I don't think that will do much good in there.	אני לא חושב שזה יביא שם תועלת.
 juju bag	תיק ג'וג'ו
-`Instructions:	הוראות:
-1) light fuse	1) הדלק את הפתיל
-2) throw at target	2) זרוק על המטרה
-3) get ready for LOVE`	3) התכונן ל*אהבה*'
+`Instructions:	`הוראות:
+1) light fuse	1( הדלק את הפתיל
+2) throw at target	2( זרוק על המטרה
+3) get ready for LOVE`	3( התכונן ל*אהבה*`
 	
 No.	לא.
 I want to save it for Elaine.	אני רוצה לשמור את זה לאילנה.
 love bomb	פצצת אהבה
-`Close cover before striking.`	סגור את המכסה לפני ההתקפה.'
+`Close cover before striking.`	`סגור את המכסה לפני ההתקפה.`
 There are no more matches.	נגמרו הגפרורים.
 I'm no pyromaniac.	אני לא פירומן.
 It's lit already.	זה כבר דולק.
@@ -2443,7 +2443,7 @@ I don't even want to know what it's used for.	אני לא רוצה אפילו ל
 I don't like heavy syrup.	אני לא אוהב סירופ סמיך.
 ^and I feel bad for the spiders.	^ואני מרחם על העכבישים.
 I don't have that problem anymore.	אין לי את הבעיה הזו יותר.
-I don't have an eyepatch or any missing limbs.	אין לי רטייה או או גפיים חסרות.
+I don't have an eyepatch or any missing limbs.	אין לי רטייה או גפיים חסרות.
 wart remover	מסיר יבלות
 cat de-wormer	מתלע חתולים
 Ash-2-life\x0F	מחיה-אפר\x0F
@@ -7344,7 +7344,7 @@ Why can't you just leave me alone?	למה אתה לא יכול פשוט לעזו
 I thought I smelled something.	חשבתי שהרחתי משהו.
 	
 	
-Guybrush's score: \xFF\x04\x37\x01 out of 50.	הציון של ברנשבצע: \xFF\x04\x37\x01 מתוך 50.
+Guybrush's score: \xFF\x04\x37\x01 out of 50.	הציון של ברנשצבע: \xFF\x04\x37\x01 מתוך 50.
 Oh, Guybrush^	הו, ברנשצבע^
 I know I shouldn't have anything to do with you^	אני יודעת שעדיף שלא יהיה לי שום קשר אליך^
 ^but there's something about your weakness and ineptitude that I find infectious.	^אבל יש משהו בחולשה ובחוסר היכולת שלך שאני מוצאת מידבק.
@@ -8067,12 +8067,12 @@ You can't leave me in here!	אתה לא יכול להשאיר אותי פה!
 \x07The map, Wally!  What about the map?	\x07המפה, וולי!  מה לגבי המפה?
 \x07I have something to confess about your monocle.	\x07יש לי ווידוי קטן לגבי המשקף שלך.
 \x07OK, stand back.  I'm going to bust down the door.	\x07בסדר, לך אחורה.  אני הולך לפרוץ את הדלת.
-\x07Could you please stop that annoying swinging?	\x07אתה בבקשה להפסיק עם הנדנוד המעצבן הזה?
+\x07Could you please stop that annoying swinging?	\x07אתה מוכן בבקשה להפסיק עם הנדנוד המעצבן הזה?
 \x07I'm going to go get that key!	\x07אני הולך להשיג את המפתח הזה!
 \x07I'm going to go have a look around.  Sit tight.	\x07אני הולך להעיף מבט מסביב.  תחזיק מעמד.
 I'm going to go get that key!	אני הולך להשיג את המפתח הזה!
 I'm going to go have a look around.  Sit tight.	אני הולך להעיף מבט מסביב.  תחזיק מעמד.
-Oh, LeChuck's got it, but who cares?	אוי, לה-צ'אק השיג אותו, אבל למי אכפת?
+Oh, LeChuck's got it, but who cares?	אוי, לה-צ'אק השיג אותה, אבל למי אכפת?
 Who cares?!?	למי אכפת?!?
 Yeah, I memorized the whole thing before he took it.	כן, שיננתי הכל לפני שהוא לקח אותה.
 It's on an island called Dinky, not too far from here.	זה על אי שנקרא עלוב, לא רחוק מכאן.
@@ -9103,7 +9103,7 @@ Please!	בבקשה!
 No more!	לא עוד!
 OK, time to send you screaming to a dimension of infinite pain!	טוב, הגיע הזמן לשלוח אותך בצרחות אל מימד של כאב אינסופי!
 Aaaiiiiieeee!!!!	אאאאאאאייייייייהההה!!!!
-At last, I'm rid of that pesky little wimp Guybrush!	סוף סוף, נפטרתי מהרכיכה המעצבנת הזאת ברנשבצע!
+At last, I'm rid of that pesky little wimp Guybrush!	סוף סוף, נפטרתי מהרכיכה המעצבנת הזאת ברנשצבע!
 WHUMP!	*בום*!
 Hey, I'm alive!	היי, אני חי!
 Eh?	אה?
